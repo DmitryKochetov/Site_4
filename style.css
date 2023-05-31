@@ -6,3 +6,29 @@ a {
     padding: 0;
     margin: 0;
 }
+
+.headerheaderInfo {
+    padding-bottom: 162px;
+}
+
+.mainMenu {
+    margin-top: 51px;
+    margin-bottom: 94px;
+}
+
+.headerTopLeft {
+    margin-top: 40px;
+}
+
+.headerInfoLeftHeading {
+    margin-bottom: 17px;
+}
+
+.headerInfoLefttext {
+    margin-bottom: 37px;
+}
+
+.headerLogoBar {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
