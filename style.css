@@ -192,3 +192,42 @@ a {
 .headerLogoBar > img{
     margin-left: 48px;
 }
+
+.perfectSolution{
+    background: #FAFAFA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+}
+
+.perfectSolutionLeft{
+    width: 27%;
+    height: auto;
+}
+
+.perfectSolutionRight{
+    width: 27%;
+    height: auto;
+}
+.perfectSolutionRight > img{
+    /* width: 100%; */
+}
+
+.solutionHeader{
+    display: block;
+    font-family: 'Gilroy-Bold';
+    font-size: 45px;
+    line-height: 53px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.solutionText{
+    display: block;
+    font-family: 'Gilroy-Regular';
+    font-size: 16px;
+    line-height: 150%;
+    color: #666666;
+    margin-bottom: 35px;
+}
